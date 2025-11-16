@@ -1,0 +1,12 @@
+# MCP Server SDK
+mcp>=1.0.0
+
+# Cryptocurrency exchange library
+ccxt>=4.0.0
+
+# Testing framework
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+
+# Async support
+asyncio-mqtt>=0.16.1

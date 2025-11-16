@@ -1,0 +1,8 @@
+# This creates the file and ignores the venv folder
+echo "venv/" > .gitignore
+
+# This adds the pycache folder to the ignore list
+echo "__pycache__/" >> .gitignore
+
+# This adds the pytest cache folder
+echo ".pytest_cache/" >> .gitignore
